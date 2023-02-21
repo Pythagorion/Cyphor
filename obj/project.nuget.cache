@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFEE1vFJpq9v7wNQf1PVQBTVyzQnuY6ZVlVeq17JsDcBdhkNLEa3P2KQsj7S9hExFa9FxqUz0S3oPBv8RMqNDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paul\\RiderProjects\\Cyphor\\Cyphor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\cefsharp.common.netcore\\110.0.250\\cefsharp.common.netcore.110.0.250.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\cefsharp.winforms.netcore\\110.0.250\\cefsharp.winforms.netcore.110.0.250.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\chromiumembeddedframework.runtime\\110.0.25\\chromiumembeddedframework.runtime.110.0.25.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\110.0.25\\chromiumembeddedframework.runtime.win-x64.110.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
